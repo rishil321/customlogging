@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: customlogging
-Version: 0.0.1
+Version: 0.0.6
 Summary: A logging package that allows logging to STDOUT, log files as well as SMTP
 Home-page: https://github.com/rishil321/customlogging
 Author: Rishi Latchmepersad
@@ -8,6 +8,7 @@ Author-email: latchmepersad@gmail.com
 License: UNKNOWN
 Description: A Python3 module that allows you to log to stdout, files as well as SMTP
         
+        To install local packages pip3 install customlogging --no-index --find-links customlogging-0.0.1.tar.gz
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

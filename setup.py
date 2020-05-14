@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="customlogging",
-    version="0.0.1",
+    version="0.0.6",
     author="Rishi Latchmepersad",
     author_email="latchmepersad@gmail.com",
     description="A logging package that allows logging to STDOUT, log files as well as SMTP",
