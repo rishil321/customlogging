@@ -1,0 +1,8 @@
+README.md
+setup.py
+customlogging/__init__.py
+customlogging/customlogging.py
+customlogging.egg-info/PKG-INFO
+customlogging.egg-info/SOURCES.txt
+customlogging.egg-info/dependency_links.txt
+customlogging.egg-info/top_level.txt
